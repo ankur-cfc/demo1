@@ -1,6 +1,6 @@
 # demo1
 
 
-Hi I am new to this gobshit
+Learning git 1
 
-This is the second gobshit
+the second line
